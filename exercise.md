@@ -3,3 +3,5 @@
 * git config --global user.name "first and second name"
 * git config --global user.email "email@domen.com"
 
+## Инициализация нового или уже существующего репозиторя
+* git init
