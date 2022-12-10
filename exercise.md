@@ -20,4 +20,7 @@
 ## Просмотр логов, просмотр логов с изменениеями и односмтрочный просмотр логов
 * git log
 * git log -p
-* git log --onelin
+* git log --oneline
+
+## Изменение последнего коммита
+* git commit --amend -m "message"
