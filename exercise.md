@@ -38,3 +38,6 @@
 
 ## Просмотр всех веток
 * git branch
+
+## Слияние двух веток
+* git merge name_branch
