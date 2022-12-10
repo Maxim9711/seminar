@@ -57,5 +57,5 @@
 
 
 # Работаем на github
-### Отправка c github
-* git push
+### Отправка c github (стягиваем с сайта)
+* git pull
