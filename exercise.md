@@ -1,6 +1,6 @@
 # Шпаргалка по работе с git
 ## Инициализация пользователя и электронной почты
-* git config --global user.name "first and second name"
+* git config --global user.name "first and second name or nickname"
 * git config --global user.email "email@domen.com"
 
 ## Инициализация нового или уже существующего репозиторя
@@ -36,3 +36,5 @@
 ## Отмена подготовленных и неподготовленных изменений
 * git checkout namefile.txt
 
+## Просмотр всех веток
+* git branch
