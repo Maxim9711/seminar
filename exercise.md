@@ -41,3 +41,10 @@
 
 ## Слияние двух веток
 * git merge name_branch
+
+## Отображение журнала коммитов для всех веток
+* git log --graph
+* git log --graph --oneline --decorate
+
+По всем веткам:
+* git log --all --graph --oneline --decorate
