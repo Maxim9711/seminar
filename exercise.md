@@ -63,6 +63,20 @@
 ### Отправка c github (стягиваем с сайта)
 * git pull
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Алгоритм стягивания репозитория с github
 
 1. git remote add origin https://github.com/userName/link.git
