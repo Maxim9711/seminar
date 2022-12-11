@@ -39,6 +39,9 @@
 ### Просмотр всех веток
 * git branch
 
+### Переключение на другую ветку
+* git swith name_branch
+
 ### Слияние двух веток
 * git merge name_branch
 
