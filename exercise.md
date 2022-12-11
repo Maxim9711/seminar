@@ -79,6 +79,6 @@
 
 ### Алгоритм стягивания репозитория с github
 
-1. git remote add origin https://github.com/userName/link.git
-2. git branch -M main
-3. git push -u origin main
+* git remote add origin https://github.com/userName/link.git
+* git branch -M main
+* git push -u origin main
