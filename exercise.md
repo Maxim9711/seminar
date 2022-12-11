@@ -54,19 +54,18 @@
 
 
 
-# Работаем локально
-### Отправка на github
-* git push
-
-
-# Работаем на github
-### Отправка c github (стягиваем с сайта)
-* git pull
-
+# Работаем с github
 
 ### Алгоритм стягивания репозитория с github
-
 * git remote add origin https://github.com/userName/link.git
 * git branch -M main
 * git push -u origin main
+
+### Отправка на github измененый репозитория
+* git push
+
+### Стягивание c github (стягиваем с сайта репозиторий)
+* git pull
+
+
 
