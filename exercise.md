@@ -64,23 +64,9 @@
 * git pull
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Алгоритм стягивания репозитория с github
 
-ОШИБКА ОШИБКА ОШИБКА
-ОШИБКА ОШИБКА ОШИБКА
-ОШИБКА ОШИБКА ОШИБКА
-ОШИБКА ОШИБКА ОШИБКА
-ОШИБКА ОШИБКА ОШИБКА
+* git remote add origin https://github.com/userName/link.git
+* git branch -M main
+* git push -u origin main
+
